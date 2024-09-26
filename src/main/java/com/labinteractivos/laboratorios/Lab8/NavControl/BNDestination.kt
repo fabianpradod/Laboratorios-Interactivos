@@ -1,0 +1,3 @@
+package com.labinteractivos.laboratorios.Lab8.NavControl
+
+interface BNDestination
